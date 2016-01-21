@@ -1,0 +1,22 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "bradley@spencerfam.com",
+    "longName": "Try3",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "Try3",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "35383da2-7f7e-4b8a-b3e7-16a6e3bd7551",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
